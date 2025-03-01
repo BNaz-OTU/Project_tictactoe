@@ -1,6 +1,4 @@
 # Tic-Tac-Toe Game
-
-    #### Video Demo:  https://youtu.be/-l_dlH9SvaM
     #### Description:
     I created a Tic-Tac-Toe game where either 2 players play against each other
     or a user can face-off against the computer.
@@ -67,3 +65,5 @@
     raises. I could remove the try/catch block, but doing that would cause the game to end
     prematurely, as a design choice I decided to leave the try/catch block so the program
     could work smoothly.
+
+<!-- #### Video Demo:  https://youtu.be/-l_dlH9SvaM -->
